@@ -1,9 +1,12 @@
-# Hi, I'm A P C Srikanth Reddy 👋
+# Hi, I'm A P C Srikanth Reddy 👋  
+### A First-Year CSE (AI & ML) Student
 
 ## 👨‍🎓 About Me
 - 🎓 Branch: CSE (AI & ML)
 - 📅 Year: 1st Year
 - 💻 GitHub: SrikanthForge
+- 
+- I am currently in my first year and slowly learning how to use technology in a better and more practical way.
 
 I am currently a first-year student exploring digital literacy and learning how technology works in real life. I am interested in developing my technical skills step by step and understanding how to use digital tools effectively.
 
@@ -34,10 +37,10 @@ This project gave me a better understanding of how technology impacts our daily 
 
 ## 🚀 Future Goals
 In the coming years, I plan to:
-- Learn programming and development  
-- Work on small projects and improve my skills  
-- Build a strong GitHub profile  
-- Gain practical knowledge in AI & ML  
+- Learn programming step by step  
+- Build small projects and improve my skills  
+- Explore AI & ML concepts  
+- Develop problem-solving ability 
 
 ---
 
